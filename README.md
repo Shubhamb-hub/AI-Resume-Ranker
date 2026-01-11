@@ -1,4 +1,3 @@
-````markdown
 # 🚀 AI Resume Ranker – ATS-Based Resume Screening System
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
