@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Django](https://img.shields.io/badge/Django-Web_Framework-green)
 ![NLP](https://img.shields.io/badge/NLP-spaCy%20%7C%20Transformers-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
